@@ -1,0 +1,3 @@
+background : #141625
+buttons : #7c5dfa
+#1e2139
